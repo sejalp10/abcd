@@ -1,4 +1,4 @@
 hello world 
 hello world
-hey 
-to check merge conflicts 
+
+merge conflicts 
